@@ -7,7 +7,7 @@ An interactive **Microsoft Excel Dashboard** built to analyze coffee shop sales 
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Images/dashboard.png" alt="Cafe Sales Analysis Dashboard" width="100%">
+  <img src="Images/Dashboard.png" alt="Cafe Sales Analysis Dashboard" width="100%">
 </p>
 
 ---
