@@ -51,7 +51,6 @@ Transform raw sales data into an interactive dashboard that enables users to:
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
 - Slicers
-- GETPIVOTDATA
 - Data Visualization
 
 ---
@@ -77,8 +76,8 @@ Cafe-Sales-Analysis
 ├── Dataset
 │   └── Coffee Shop Sales.xlsx
 │
-├── Images
-│   └── dashboard.png
+├── Image
+│   └── Dashboard.png
 │
 └── README.md
 ```
