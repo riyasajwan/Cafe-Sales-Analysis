@@ -6,7 +6,7 @@ An interactive **Microsoft Excel Dashboard** built to analyze coffee shop sales 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Image/Dashboard.png)
 
 ---
 
